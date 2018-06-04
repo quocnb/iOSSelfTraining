@@ -27,7 +27,18 @@
 - [ ] [Image Depth Maps Tutorial for iOS: Getting Started](https://www.raywenderlich.com/168312/image-depth-maps-tutorial-ios-getting-started)
 - [ ] [CALayer Tutorial for iOS: Getting Started](https://www.raywenderlich.com/169004/calayer-tutorial-ios-getting-started)
 - [ ] [NSIncrementalStore Tutorial for iOS: Getting Started](https://www.raywenderlich.com/171045/using-nsincrementalstore-custom-core-data-storage)
-- [ ] [Custom Keyboard Extensions: Getting Started](https://www.raywenderlich.com/180180/keyboard-extensions)
+- [x] [Custom Keyboard Extensions: Getting Started](https://www.raywenderlich.com/180180/keyboard-extensions)
+
+**What I learned**
+- Can create a custom keyboard to whatever I want
+- Don't forget to change version of Keyboard Extension to same with Project
+
+*Demo:*
+
+[Vietnamese only](https://viblo.asia/p/iostu-tao-ban-phim-support-chui-bay-trong-lien-quan-mobile-Az45bgaQKxY)
+
+https://github.com/quocnb/LeKeyboard
+
 - [ ] [Basic iOS Security: Keychain and Hashing](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
 
 ### Views and View Controllers
