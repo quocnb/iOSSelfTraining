@@ -42,7 +42,7 @@ https://github.com/quocnb/LeKeyboard
 - [ ] [Basic iOS Security: Keychain and Hashing](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
 
 ### Views and View Controllers
-- [ ] [View Debugging in Xcode 6](https://www.raywenderlich.com/98356/view-debugging-in-xcode-6)
+- [ ] ~~[View Debugging in Xcode 6](https://www.raywenderlich.com/98356/view-debugging-in-xcode-6)~~
 - [ ] [iOS 9 Storyboards Tutorial: What’s New in Storyboards?](https://www.raywenderlich.com/115697/ios-9-storyboards-tutorial-whats-new-in-storyboards)
 - [ ] [State Restoration Tutorial: Getting Started](https://www.raywenderlich.com/117471/state-restoration-tutorial)
 - [ ] [Easier Auto Layout: Coding Constraints in iOS 9](https://www.raywenderlich.com/125718/coding-auto-layout)
@@ -167,7 +167,7 @@ https://github.com/quocnb/LeKeyboard
 ### Software Engineering
 - [ ] [Intermediate Design Patterns in Swift](https://www.raywenderlich.com/86053/intermediate-design-patterns-in-swift)
 - [ ] [Creating and Distributing iOS Frameworks](https://www.raywenderlich.com/126365/ios-frameworks-tutorial)
-- [ ] [Intermediate Debugging with Xcode 8](https://www.raywenderlich.com/152276/intermediate-debugging-xcode-8)
+- [ ] ~~[Intermediate Debugging with Xcode 8](https://www.raywenderlich.com/152276/intermediate-debugging-xcode-8)~~
 - [ ] [Open-Source Collaboration Using Git and GitHub](https://www.raywenderlich.com/179717/open-source-collaboration-using-git-and-github)
 
 ### Tools and Libraries
@@ -191,7 +191,7 @@ https://github.com/quocnb/LeKeyboard
 - [ ] [How to Make App Mockups With AppCooker](https://www.raywenderlich.com/125119/how-to-make-app-mockups-with-appcooker)
 - [ ] [PaintCode Sketch Plugin Tutorial](https://www.raywenderlich.com/130942/paintcode-sketch-plugin-tutorial)
 - [ ] [Core Plot Tutorial: Getting Started](https://www.raywenderlich.com/131985/core-plot-tutorial-getting-started)
-- [ ] [Building iOS Apps with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
+- [ ] ~~[Building iOS Apps with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)~~
 - [ ] [Using Framer to Prototype iOS Animations](https://www.raywenderlich.com/135380/using-framer-prototype-ios-animations)
 - [ ] [React Native Tutorial: Integrating in an Existing App](https://www.raywenderlich.com/136047/react-native-existing-app)
 - [ ] [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
@@ -272,7 +272,7 @@ https://github.com/quocnb/LeKeyboard
 
 **Techniques**
 
-- [ ] [How to Port Your App to the iPhone 6, iPhone 6 Plus and iOS 8: Top 10 Tips](https://www.raywenderlich.com/89816/porting-app-iphone-6-iphone-6-plus-ios-8-top-10-tips)
+- [ ] ~~[How to Port Your App to the iPhone 6, iPhone 6 Plus and iOS 8: Top 10 Tips](https://www.raywenderlich.com/89816/porting-app-iphone-6-iphone-6-plus-ios-8-top-10-tips)~~
 - [ ] [How To Secure Your App’s Passwords with Safari AutoFill in iOS 8](https://www.raywenderlich.com/90978/secure-passwords-with-safari-autofill-ios-8)
 - [ ] [How To Create an Xcode Plugin: Part 1/3](https://www.raywenderlich.com/94020/creating-an-xcode-plugin-part-1)
 - [ ] [How To Create an Xcode Plugin: Part 2/3](https://www.raywenderlich.com/97756/creating-an-xcode-plugin-part-2)
@@ -280,7 +280,7 @@ https://github.com/quocnb/LeKeyboard
 - [ ] [How To Create an Xcode Plugin: Part 3/3](https://www.raywenderlich.com/104479/creating-an-xcode-plugin-part-3)
 - [ ] [How To Change Your App Icon at Build Time](https://www.raywenderlich.com/105641/change-app-icon-build-time)
 - [ ] [UICollectionView Custom Layout Tutorial: A Spinning Wheel](https://www.raywenderlich.com/107687/uicollectionview-custom-layout-tutorial-spinning-wheel)
-- [ ] [How to Install iOS 9 and watchOS 2](https://www.raywenderlich.com/108871/install-ios-9-beta-watchos-2)
+- [ ] ~~[How to Install iOS 9 and watchOS 2](https://www.raywenderlich.com/108871/install-ios-9-beta-watchos-2)~~
 - [ ] [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/127936/submit-an-app-part-1)
 - [ ] [How to Submit An App to Apple: From No Account to App Store – Part 2](https://www.raywenderlich.com/127939/submit-an-app-part-2)
 - [ ] [Coordinator Tutorial for iOS: Getting Started](https://www.raywenderlich.com/177538/coordinator-tutorial-ios-getting-started)
