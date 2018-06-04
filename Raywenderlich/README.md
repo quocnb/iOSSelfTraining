@@ -1,5 +1,19 @@
 ### Core Concepts
-- [ ] [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
+- [x] [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
+
+**What I learned**
+
+*UnitTest*
+- after init viewcontroller, call `loadView` for loading view. If not, it can be crash
+- create new sub view from Test function, link action to main app's view . action
+- `waitForExpectations(timeout: xxx_seconds, handler: nil)` take your waiting time.
+
+*UITest*
+- Can record action for saving time
+
+*All*
+- Should read more about `Continuous Integration`, `Continuous Delivery`
+
 - [ ] [Core Text Tutorial for iOS: Making a Magazine App](https://www.raywenderlich.com/153591/core-text-tutorial-ios-making-magazine-app)
 - [ ] [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/156036/uiappearance-tutorial-getting-started)
 - [ ] [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
