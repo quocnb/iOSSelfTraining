@@ -1,18 +1,21 @@
 ### Core Concepts
 - [x] [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
 
-**What I learned**
+    **What I learned**
 
-*UnitTest*
-- after init viewcontroller, call `loadView` for loading view. If not, it can be crash
-- create new sub view from Test function, link action to main app's view . action
-- `waitForExpectations(timeout: xxx_seconds, handler: nil)` take your waiting time.
+    *UnitTest*
 
-*UITest*
-- Can record action for saving time
+    - after init viewcontroller, call `loadView` for loading view. If not, it can be crash
+    - create new sub view from Test function, link action to main app's view . action
+    - `waitForExpectations(timeout: xxx_seconds, handler: nil)` take your waiting time.
 
-*All*
-- Should read more about `Continuous Integration`, `Continuous Delivery`
+    *UITest*
+
+    - Can record action for saving time
+
+    *All*
+
+    - Should read more about `Continuous Integration`, `Continuous Delivery`
 
 - [ ] [Core Text Tutorial for iOS: Making a Magazine App](https://www.raywenderlich.com/153591/core-text-tutorial-ios-making-magazine-app)
 - [ ] [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/156036/uiappearance-tutorial-getting-started)
@@ -29,16 +32,14 @@
 - [ ] [NSIncrementalStore Tutorial for iOS: Getting Started](https://www.raywenderlich.com/171045/using-nsincrementalstore-custom-core-data-storage)
 - [x] [Custom Keyboard Extensions: Getting Started](https://www.raywenderlich.com/180180/keyboard-extensions)
 
-**What I learned**
-- Can create a custom keyboard to whatever I want
-- Don't forget to change version of Keyboard Extension to same with Project
+    **What I learned**
+    - Can create a custom keyboard to whatever I want
+    - Don't forget to change version of Keyboard Extension to same with Project
 
-*Demo:*
-
-[Vietnamese only](https://viblo.asia/p/iostu-tao-ban-phim-support-chui-bay-trong-lien-quan-mobile-Az45bgaQKxY)
-
+```
+https://viblo.asia/p/iostu-tao-ban-phim-support-chui-bay-trong-lien-quan-mobile-Az45bgaQKxY
 https://github.com/quocnb/LeKeyboard
-
+```
 - [ ] [Basic iOS Security: Keychain and Hashing](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
 
 ### Views and View Controllers
@@ -118,11 +119,15 @@ https://github.com/quocnb/LeKeyboard
 ### watchOS
 - [x] [watchOS 4 Tutorial Part 1: Getting Started](https://www.raywenderlich.com/170177/watchos-4-tutorial-part-1-getting-started)
 
-**What I learned**
+    **What I learned**
+    - Create very first simple watch app interface
 
-- Create very first simple watch app interface
+- [x] [watchOS 4 Tutorial Part 2: Tables](https://www.raywenderlich.com/170193/watchos-4-tutorial-part-2-tables)
 
-- [ ] [watchOS 4 Tutorial Part 2: Tables](https://www.raywenderlich.com/170193/watchos-4-tutorial-part-2-tables)
+    **What I learned**
+    - WatchOS's TableView
+    - Present/Push to new view
+
 - [ ] [watchOS 4 Tutorial Part 3: Animation](https://www.raywenderlich.com/170203/watchos-4-tutorial-part-3-animation)
 - [ ] [Audio Recording in watchOS Tutorial](https://www.raywenderlich.com/174404/audio-recording-in-watchos-tutorial)
 - [ ] [Core Bluetooth in watchOS Tutorial](https://www.raywenderlich.com/174449/core-bluetooth-watchos-tutorial)

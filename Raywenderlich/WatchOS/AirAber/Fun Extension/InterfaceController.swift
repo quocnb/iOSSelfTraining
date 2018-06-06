@@ -44,7 +44,11 @@ class InterfaceController: WKInterfaceController {
 
     override func awake(withContext context: Any?) {
         super.awake(withContext: context)
+      if let flight = context as? Flight {
+        self.flight = flight
+      } else {
         flight = Flight.allFlights().random()
+      }
     }
     
     override func willActivate() {
