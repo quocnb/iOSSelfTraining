@@ -69,7 +69,7 @@ https://github.com/quocnb/LeKeyboard
 - [ ] [AsyncDisplayKit Tutorial: Node Hierarchies](https://www.raywenderlich.com/107310/asyncdisplaykit-tutorial-node-hierarchies)
 - [ ] [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/108766/uiappearance-tutorial)
 - [ ] [iOS Animation Tutorial: Introduction to Easy Animation](https://www.raywenderlich.com/113686/ios-animation-tutorial-introduction-easy-animation)
-- [ ] [Apple Pencil Tutorial: Getting Started](https://www.raywenderlich.com/121834/apple-pencil-tutorial)
+- [ ] ~~[Apple Pencil Tutorial: Getting Started](https://www.raywenderlich.com/121834/apple-pencil-tutorial)~~
 - [ ] [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts)
 - [ ] [Core Graphics Tutorial Part 1: Getting Started](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started)
 - [ ] [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
@@ -116,7 +116,12 @@ https://github.com/quocnb/LeKeyboard
 - [ ] [Grand Central Dispatch Tutorial for Swift 3: Part 2/2](https://www.raywenderlich.com/148515/grand-central-dispatch-tutorial-swift-3-part-2)
 
 ### watchOS
-- [ ] [watchOS 4 Tutorial Part 1: Getting Started](https://www.raywenderlich.com/170177/watchos-4-tutorial-part-1-getting-started)
+- [x] [watchOS 4 Tutorial Part 1: Getting Started](https://www.raywenderlich.com/170177/watchos-4-tutorial-part-1-getting-started)
+
+**What I learned**
+
+- Create very first simple watch app interface
+
 - [ ] [watchOS 4 Tutorial Part 2: Tables](https://www.raywenderlich.com/170193/watchos-4-tutorial-part-2-tables)
 - [ ] [watchOS 4 Tutorial Part 3: Animation](https://www.raywenderlich.com/170203/watchos-4-tutorial-part-3-animation)
 - [ ] [Audio Recording in watchOS Tutorial](https://www.raywenderlich.com/174404/audio-recording-in-watchos-tutorial)
