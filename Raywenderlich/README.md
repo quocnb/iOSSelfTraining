@@ -113,8 +113,21 @@ https://github.com/quocnb/LeKeyboard
 - [ ] [How to make a RESTful app with Siesta](https://www.raywenderlich.com/182219/make-restful-app-siesta)
 
 ### Concurrency
-- [ ] [Grand Central Dispatch Tutorial for Swift 3: Part 1/2](https://www.raywenderlich.com/148513/grand-central-dispatch-tutorial-swift-3-part-1)
-- [ ] [Grand Central Dispatch Tutorial for Swift 3: Part 2/2](https://www.raywenderlich.com/148515/grand-central-dispatch-tutorial-swift-3-part-2)
+- [x] [Grand Central Dispatch Tutorial for Swift 3: Part 1/2](https://www.raywenderlich.com/148513/grand-central-dispatch-tutorial-swift-3-part-1)
+
+    **What I learned**
+    - Thread safe with Dispatch Barrier
+
+- [x] [Grand Central Dispatch Tutorial for Swift 3: Part 2/2](https://www.raywenderlich.com/148515/grand-central-dispatch-tutorial-swift-3-part-2)
+
+    **What I learned**
+    - Dispatch Group
+    - DispatchQueue.concurrentPerform (instead of for loop)
+    - Cancel block
+    - Semaphore
+    - DispatchSource (debug helper)
+
+- [ ] [How to Use NSOperations and NSOperationQueue Tutorial in Swift](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift)
 
 ### watchOS
 - [x] [watchOS 4 Tutorial Part 1: Getting Started](https://www.raywenderlich.com/170177/watchos-4-tutorial-part-1-getting-started)
