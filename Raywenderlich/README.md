@@ -128,7 +128,13 @@ https://github.com/quocnb/LeKeyboard
     - WatchOS's TableView
     - Present/Push to new view
 
-- [ ] [watchOS 4 Tutorial Part 3: Animation](https://www.raywenderlich.com/170203/watchos-4-tutorial-part-3-animation)
+- [x] [watchOS 4 Tutorial Part 3: Animation](https://www.raywenderlich.com/170203/watchos-4-tutorial-part-3-animation)
+
+    **What I learned**
+    - Present multiple view
+    - Add button action
+    - Animation in watch
+
 - [ ] [Audio Recording in watchOS Tutorial](https://www.raywenderlich.com/174404/audio-recording-in-watchos-tutorial)
 - [ ] [Core Bluetooth in watchOS Tutorial](https://www.raywenderlich.com/174449/core-bluetooth-watchos-tutorial)
 
