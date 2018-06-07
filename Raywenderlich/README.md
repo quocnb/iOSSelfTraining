@@ -127,7 +127,11 @@ https://github.com/quocnb/LeKeyboard
     - Semaphore
     - DispatchSource (debug helper)
 
-- [ ] [How to Use NSOperations and NSOperationQueue Tutorial in Swift](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift)
+- [x] [How to Use Operations and OperationQueue Tutorial in Swift](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift)
+    **What I learned**
+    - Using OperationQueue and Operation for Multitasking
+    - Easy cancel, suspend
+    - I love GCD =))
 
 ### watchOS
 - [x] [watchOS 4 Tutorial Part 1: Getting Started](https://www.raywenderlich.com/170177/watchos-4-tutorial-part-1-getting-started)
