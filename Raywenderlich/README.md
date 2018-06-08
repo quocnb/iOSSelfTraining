@@ -69,7 +69,12 @@ https://github.com/quocnb/LeKeyboard
 - [ ] [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/178486/uivisualeffectview-tutorial-getting-started)
 
 ### Graphics & Animation APIs
-- [ ] [UIKit Dynamics Tutorial: Getting Started](https://www.raywenderlich.com/76147/uikit-dynamics-tutorial-swift)
+- [x] [UIKit Dynamics Tutorial: Getting Started](https://www.raywenderlich.com/76147/uikit-dynamics-tutorial-swift)
+
+    **What I learned**
+    - So fun but have no idea now. Maybe it can be used for making some fall-down animation like rain, snow fall, or fireworks (not sure :D )
+
+
 - [ ] [Core Image Tutorial: Getting Started](https://www.raywenderlich.com/76285/beginning-core-image-swift)
 - [ ] [UIKit Dynamics and Swift Tutorial: Tossing Views](https://www.raywenderlich.com/94719/uikit-dynamics-swift-tutorial-tossing-views)
 - [ ] [AsyncDisplayKit Tutorial: Node Hierarchies](https://www.raywenderlich.com/107310/asyncdisplaykit-tutorial-node-hierarchies)
