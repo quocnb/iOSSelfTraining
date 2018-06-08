@@ -17,7 +17,12 @@
 
     - Should read more about `Continuous Integration`, `Continuous Delivery`
 
-- [ ] [Core Text Tutorial for iOS: Making a Magazine App](https://www.raywenderlich.com/153591/core-text-tutorial-ios-making-magazine-app)
+- [x] [Core Text Tutorial for iOS: Making a Magazine App](https://www.raywenderlich.com/153591/core-text-tutorial-ios-making-magazine-app)
+
+    **What I learned**
+    - Too complex, you should not using it =))
+
+
 - [ ] [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/156036/uiappearance-tutorial-getting-started)
 - [ ] [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
 - [ ] [Top 10 Most Popular iOS Tutorials on raywenderlich.com](https://www.raywenderlich.com/157883/top-10-popular-ios-tutorials-raywenderlich-com)
