@@ -23,7 +23,13 @@
     - Too complex, you should not using it =))
 
 
-- [ ] [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/156036/uiappearance-tutorial-getting-started)
+- [x] [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/156036/uiappearance-tutorial-getting-started)
+
+    **What I learned**
+    - Change all settings with `UIAppearance`
+    - `Solar` support sunrise and sunset
+
+
 - [ ] [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
 - [ ] ~~[Top 10 Most Popular iOS Tutorials on raywenderlich.com](https://www.raywenderlich.com/157883/top-10-popular-ios-tutorials-raywenderlich-com)~~
 - [ ] [Storyboards Tutorial for iOS: Part 2](https://www.raywenderlich.com/160519/storyboards-tutorial-ios-10-getting-started-part-2)
@@ -86,7 +92,7 @@ https://github.com/quocnb/LeKeyboard
 
 - [ ] [UIKit Dynamics and Swift Tutorial: Tossing Views](https://www.raywenderlich.com/94719/uikit-dynamics-swift-tutorial-tossing-views)
 - [ ] [AsyncDisplayKit Tutorial: Node Hierarchies](https://www.raywenderlich.com/107310/asyncdisplaykit-tutorial-node-hierarchies)
-- [ ] [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/108766/uiappearance-tutorial)
+- [x] ~~[UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/108766/uiappearance-tutorial)~~
 - [ ] [iOS Animation Tutorial: Introduction to Easy Animation](https://www.raywenderlich.com/113686/ios-animation-tutorial-introduction-easy-animation)
 - [ ] ~~[Apple Pencil Tutorial: Getting Started](https://www.raywenderlich.com/121834/apple-pencil-tutorial)~~
 - [ ] [Core Graphics Tutorial Part 2: Gradients and Contexts](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts)
