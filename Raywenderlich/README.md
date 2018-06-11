@@ -25,7 +25,7 @@
 
 - [ ] [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/156036/uiappearance-tutorial-getting-started)
 - [ ] [UISearchController Tutorial: Getting Started](https://www.raywenderlich.com/157864/uisearchcontroller-tutorial-getting-started)
-- [ ] [Top 10 Most Popular iOS Tutorials on raywenderlich.com](https://www.raywenderlich.com/157883/top-10-popular-ios-tutorials-raywenderlich-com)
+- [ ] ~~[Top 10 Most Popular iOS Tutorials on raywenderlich.com](https://www.raywenderlich.com/157883/top-10-popular-ios-tutorials-raywenderlich-com)~~
 - [ ] [Storyboards Tutorial for iOS: Part 2](https://www.raywenderlich.com/160519/storyboards-tutorial-ios-10-getting-started-part-2)
 - [ ] [Storyboards Tutorial for iOS: Part 1](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
 - [ ] [Auto Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/160527/auto-layout-tutorial-ios-11-getting-started)
@@ -72,10 +72,18 @@ https://github.com/quocnb/LeKeyboard
 - [x] [UIKit Dynamics Tutorial: Getting Started](https://www.raywenderlich.com/76147/uikit-dynamics-tutorial-swift)
 
     **What I learned**
-    - So fun but have no idea now. Maybe it can be used for making some fall-down animation like rain, snow fall, or fireworks (not sure :D )
+
+    So funny but have no idea now. Maybe it can be used for making some fall-down animation like rain, snow fall, or fireworks (not sure :D )
 
 
-- [ ] [Core Image Tutorial: Getting Started](https://www.raywenderlich.com/76285/beginning-core-image-swift)
+- [x] [Core Image Tutorial: Getting Started](https://www.raywenderlich.com/76285/beginning-core-image-swift)
+
+    **What I learned**
+    - CoreImage is strong to edit image
+    - Too much filter
+    - Need time and image process knowledge for make it great
+
+
 - [ ] [UIKit Dynamics and Swift Tutorial: Tossing Views](https://www.raywenderlich.com/94719/uikit-dynamics-swift-tutorial-tossing-views)
 - [ ] [AsyncDisplayKit Tutorial: Node Hierarchies](https://www.raywenderlich.com/107310/asyncdisplaykit-tutorial-node-hierarchies)
 - [ ] [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/108766/uiappearance-tutorial)
@@ -138,6 +146,7 @@ https://github.com/quocnb/LeKeyboard
     - DispatchSource (debug helper)
 
 - [x] [How to Use Operations and OperationQueue Tutorial in Swift](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift)
+
     **What I learned**
     - Using OperationQueue and Operation for Multitasking
     - Easy cancel, suspend
