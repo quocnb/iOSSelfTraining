@@ -282,7 +282,15 @@ https://github.com/quocnb/LeKeyboard
 - [ ] [Custom LLDB Commands in Practice](https://www.raywenderlich.com/162020/custom-lldb-commands-practice)
 - [ ] [Tesseract OCR Tutorial for iOS](https://www.raywenderlich.com/163445/tesseract-ocr-tutorial-ios)
 - [ ] [React Native Tutorial: Building iOS Apps with JavaScript](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
-- [ ] [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/165660/carthage-tutorial-getting-started-2)
+- [x] [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/165660/carthage-tutorial-getting-started-2)
+
+    **What I learned**
+    - Like CocoaPod, Carthage is simple, too.
+    - Carthage don't force create a workspace, easy to configure.
+    - When you update framework, Carthage only update what you need (exactly that you declare in Cartfile). When you remove Carthage out of your project, you can control everything (Cocoapods add some configure to your project settings)
+    - But  you can't see the code of the framework.
+
+
 - [ ] [Instruments Tutorial with Swift: Getting Started](https://www.raywenderlich.com/166125/instruments-tutorial-swift-getting-started)
 - [ ] [Google Material Design Tutorial for iOS: Getting Started](https://www.raywenderlich.com/170353/introduction-google-material-design-ios)
 - [ ] [Firebase Tutorial: iOS A/B Testing](https://www.raywenderlich.com/176492/firebase-tutorial-ios-b-testing)

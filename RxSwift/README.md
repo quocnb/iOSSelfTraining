@@ -1,7 +1,12 @@
 # Table of content
 ### Section I: Getting Started with RxSwift
 
-- [ ] Chapter 1: Hello RxSwift!
+- [x] Chapter 1: Hello RxSwift!
+
+    **What I learned**
+
+    RxSwift can be using for async task.
+
 - [ ] Chapter 2: Observables
 - [ ] Chapter 3: Subjects
 - [ ] Chapter 4: Observables and Subjects in Practice

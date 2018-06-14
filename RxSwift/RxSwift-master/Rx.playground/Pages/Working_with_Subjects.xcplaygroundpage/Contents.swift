@@ -95,8 +95,9 @@ example("BehaviorSubject") {
 */
 example("Variable") {
     let disposeBag = DisposeBag()
+    var object = Behavior
     let variable = Variable("🔴")
-    
+
     variable.asObservable().addObserver("1").disposed(by: disposeBag)
     variable.value = "🐶"
     variable.value = "🐱"
