@@ -137,7 +137,13 @@ https://github.com/quocnb/LeKeyboard
 - [ ] [CloudKit Tutorial: Getting Started](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
 - [ ] [CloudKit JS Tutorial for iOS](https://www.raywenderlich.com/135551/cloudkit-js-tutorial)
 - [ ] [Introduction to Protocol Buffers on iOS](https://www.raywenderlich.com/149335/introduction-protocol-buffers-ios)
-- [ ] [Real-Time Communication with Streams Tutorial for iOS](https://www.raywenderlich.com/157128/real-time-communication-streams-tutorial-ios)
+- [x] [Real-Time Communication with Streams Tutorial for iOS](https://www.raywenderlich.com/157128/real-time-communication-streams-tutorial-ios)
+
+    **What I learned**
+    - Very basic knowledge about stream
+    - Just bring me some chat app =))
+    
+
 - [ ] [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/158106/urlsession-tutorial-getting-started)
 - [ ] [OAuth 2.0 with Swift Tutorial](https://www.raywenderlich.com/177597/oauth-2-0-swift-tutorial)
 - [ ] [How to make a RESTful app with Siesta](https://www.raywenderlich.com/182219/make-restful-app-siesta)
